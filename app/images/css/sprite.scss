@@ -1,0 +1,114 @@
+%svg-common {
+	background: url("svg/sprite.css-ccd695ac.svg") no-repeat;
+}
+
+.svg-arrow-down-icon {
+	@extend %svg-common;
+	background-position: 70.27027027027027% 43.83561643835616%;
+}
+
+.svg-arrow-down-icon-dims {
+	width: 10px;
+	height: 6px;
+}
+
+.svg-block-icon {
+	@extend %svg-common;
+	background-position: 94.11764705882354% 31.746031746031747%;
+}
+
+.svg-block-icon-dims {
+	width: 16px;
+	height: 16px;
+}
+
+.svg-edit-icon {
+	@extend %svg-common;
+	background-position: 0 100%;
+}
+
+.svg-edit-icon-dims {
+	width: 15px;
+	height: 15px;
+}
+
+.svg-gift-icon {
+	@extend %svg-common;
+	background-position: 0 0;
+}
+
+.svg-gift-icon-dims {
+	width: 32px;
+	height: 32px;
+}
+
+.svg-like-icon {
+	@extend %svg-common;
+	background-position: 94.11764705882354% 55.38461538461539%;
+}
+
+.svg-like-icon-dims {
+	width: 16px;
+	height: 14px;
+}
+
+.svg-listen-icon {
+	@extend %svg-common;
+	background-position: 87.67123287671232% 76.92307692307692%;
+}
+
+.svg-listen-icon-dims {
+	width: 11px;
+	height: 14px;
+}
+
+.svg-message-icon {
+	@extend %svg-common;
+	background-position: 61.53846153846154% 0;
+}
+
+.svg-message-icon-dims {
+	width: 32px;
+	height: 32px;
+}
+
+.svg-notification-icon {
+	@extend %svg-common;
+	background-position: 0 68.08510638297872%;
+}
+
+.svg-notification-icon-dims {
+	width: 32px;
+	height: 32px;
+}
+
+.svg-report-icon {
+	@extend %svg-common;
+	background-position: 50% 54.23728813559322%;
+}
+
+.svg-report-icon-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-share-icon {
+	@extend %svg-common;
+	background-position: 100% 0;
+}
+
+.svg-share-icon-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-syntch {
+	@extend %svg-common;
+	background-position: 100% 0;
+}
+
+.svg-syntch-dims {
+	width: 0px;
+	height: 0px;
+}
+

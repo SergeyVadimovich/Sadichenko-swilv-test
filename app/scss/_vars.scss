@@ -1,0 +1,53 @@
+// color
+$accent:#ED5267;
+$default:#3E3F58;
+$title:#3E4056;
+$share:#F05D63;
+$bg:#fff;
+
+
+// font
+%montserrat-400{
+  font-family:'Montserrat-Regular', sans-serif;
+  font-weight:400;
+}
+%montserrat-600{
+  font-family:'Montserrat-SemiBold', sans-serif;
+  font-weight:600;
+}
+%opensans-400{
+  font-family:'OpenSans-Regular', sans-serif;
+  font-weight:400;
+}
+%opensans-600{
+  font-family:'OpenSans-SemiBold', sans-serif;
+  font-weight:600;
+}
+
+// pointer
+%pointer{
+  cursor: pointer;
+}
+
+// reset btn
+%btn{
+  border:none;
+  background-color: transparent;
+  font-size: 0;
+  line-height: 0;
+}
+
+// reset input
+%checkbox-hidden,
+%radio-hidden{
+  width: 1px;
+  height: 1px;
+  overflow:hidden;
+  clip:rect(0 0 0 0);
+  position:absolute;
+}
+
+// sprite
+%svg-common {
+	background: url("../images/css/svg/sprite.css-ccd695ac.svg") no-repeat;
+}
